@@ -1,0 +1,28 @@
+{
+  "name": "learnnodejs",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "expresstut.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aloksatpathy/learnnodejs.git"
+  },
+  "author": "Alok Satpathy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aloksatpathy/learnnodejs/issues"
+  },
+  "homepage": "https://github.com/aloksatpathy/learnnodejs#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "cookie": "^0.2.3",
+    "cookie-parser": "^1.4.1",
+    "express": "^4.13.4",
+    "express-handlebars": "^3.0.0",
+    "formidable": "^1.0.17"
+  }
+}
